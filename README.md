@@ -39,5 +39,6 @@
 ## Example
 <p>
 Example output file is located under the output file as SEC275FinalIndex.html and an example of a "Tools" section is located there too. 
+  
 ![Example Index](https://github.com/evanlin23/Index-Maker/blob/4846de5b72e7eb1a144f2b6501cef7672b4c11a8/images/formatted_index.png?raw=true)
 </p>
