@@ -1,5 +1,5 @@
 # Index Maker 
-<p> Tool used to create an index from a spreadsheet. </p>
+<p> Easy to use tool that is used to create indexes from a spreadsheet. </p>
 <h2> Background </h2>
 <p> Developed this tool to create an index for the SEC275.1, SEC275.2 and SEC275.3 textbooks while studying for the GIAC Foundational Cybersecurity Technologies (GFACT) certification exam. </p>
 <h2> Usage </h2>
@@ -9,7 +9,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Name of term  | Description of term | Pages in which it is found | Book in which is it found |
 
-Example Using Google Sheets: 
+<b> Example Using Google Sheets: </b>
 
 ![Example Spreadsheet](https://github.com/evanlin23/Index-Maker/blob/6b043ca97caaec63db63e81c4ffad9426a65a221/images/example_spreadsheet.png?raw=true)
 
@@ -26,7 +26,8 @@ Example Using Google Sheets:
 5. The output will be in the output folder, in output.html.
 6. Open that output.html file in a web browser. 
 
-Additional Steps for Formatting:
+<b> Additional Steps for Formatting: </b>
+
   *  Copy the contents displayed in the web browser into a google doc
   *  Change the google doc to 3 columns
   *  Play around with the font and sizes
