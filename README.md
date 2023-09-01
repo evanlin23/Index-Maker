@@ -41,4 +41,9 @@
 <b>Formatted index using google docs: </b>
 
 ![Example Index](https://github.com/evanlin23/Index-Maker/blob/4846de5b72e7eb1a144f2b6501cef7672b4c11a8/images/formatted_index.png?raw=true)
+
+
+<b>Example of a tool in the 'Tools' section: </b>
+
+![Example Tool](https://github.com/evanlin23/Index-Maker/blob/426c7f4da6d4986a2e674fa78358f62a6c90fcd6/images/example_tool.png?raw=true)
 </p>
