@@ -9,6 +9,10 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Name of term  | Description of term | Pages in which it is found | Book in which is it found |
 
+Example Using Google Sheets: 
+
+![Example Spreadsheet](https://github.com/evanlin23/Index-Maker/blob/6b043ca97caaec63db63e81c4ffad9426a65a221/images/example_spreadsheet.png?raw=true)
+
 </p>
 
 ### Steps
@@ -29,4 +33,10 @@ Additional Steps for Formatting:
   *  Consider adding a title
   *  Consider adding additional description for different tools at the end
 
+</p>
+
+## Example
+<p>
+Example output file is located under the output file as SEC275FinalIndex.html and an example of a "Tools" section is located there too. 
+  
 </p>
