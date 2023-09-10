@@ -1,5 +1,5 @@
 # Index Maker 
-<p> Tool used to create indexes from a spreadsheet. </p>
+<p> Tool used to create indexes for testbooks. </p>
 <h2> Background </h2>
 <p> Developed this tool to create an index for the SEC275.1, SEC275.2 and SEC275.3 textbooks while studying for the GIAC Foundational Cybersecurity Technologies (GFACT) certification exam. </p>
 <h2> Usage </h2>
